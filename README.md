@@ -3,7 +3,7 @@
 
 
 ### Notes:- 
-***Wordlist-Generator by Coding With Devil  <a href="https://t.me/https://t.me/CodingWithDevil_yt"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a>
+***Wordlist-Generator by Coding With Devil<a href="https://www.youtube.com/c/codingwithdevil"><img src="https://img.shields.io/youtube/channel/subscribers/UCnKlznTEohj_PCw9cuxy8Zg?style=social"></a>
 This program comes with ABSOLUTELY NO WARRANTY
 The use of the Compiler & its resources is COMPLETE RESPONSIBILITY of the END-USER.
 Developers assume NO liability and are NOT responsible for any damage caused by this program.***
