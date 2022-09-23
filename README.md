@@ -1,9 +1,9 @@
-# Uname-passwd Compiler
-***Useful for build Passwoard list[singleusername:pass],(this tool is only useful if u Dont have single target config)***
+# Wordlist-Generator
+***Useful for build Passwoard list***
 
 
 ### Notes:- 
-***Compiler by Coding With Devil  https://www.youtube.com/c/CodingWithDevil/
+***Wordlist-Generator by Coding With Devil  https://www.youtube.com/c/CodingWithDevil/
 This program comes with ABSOLUTELY NO WARRANTY
 The use of the Compiler & its resources is COMPLETE RESPONSIBILITY of the END-USER.
 Developers assume NO liability and are NOT responsible for any damage caused by this program.***
