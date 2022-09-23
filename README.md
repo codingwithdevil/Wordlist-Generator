@@ -18,7 +18,7 @@ Developers assume NO liability and are NOT responsible for any damage caused by 
 
 ```git clone https://github.com/codingwithdevil/Wordlist-Generator.git```
 
-```cd Uname-passwd_Compiler```
+```cd Wordlist-Generator ```
 
 ```chmod 777 Wordlist-builder.py```
 
