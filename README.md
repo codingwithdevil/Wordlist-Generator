@@ -3,8 +3,7 @@
 
 
 ### Notes:- 
-***Wordlist-Generator by Coding With Devil ([Youtube Channel](https://www.youtube.com/c/codingwithdevil))***</b>
-***This program comes with ABSOLUTELY NO WARRANTY
+***Wordlist-Generator by Coding With Devil,This program comes with ABSOLUTELY NO WARRANTY
 The use of the Compiler & its resources is COMPLETE RESPONSIBILITY of the END-USER.
 Developers assume NO liability and are NOT responsible for any damage caused by this program.***
         <br>
